@@ -1,1 +1,11 @@
-Nodemon will restarts only if we do changes in the "js" files.
+This project mainly focuses on crud operations i.e, Create, Delete, Update, Find
+Also Creating API's to perform crud operations.
+
+
+Tech Stack Used :
+
+Javascript
+Nodejs
+Mongo db (Database)
+jquery
+express.js(Framework)
